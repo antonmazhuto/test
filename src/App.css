@@ -1,0 +1,25 @@
+.form-header{
+    border-bottom: 1px solid #ef0000;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+.label-text{
+}
+.row{
+    padding: 10px;
+}
+.form-control>input{
+    width: 100%;
+    height: 20px;
+    border-radius: 10px;
+    outline: none;
+    border: 0;
+    padding: 5px;
+}
+.row-pressed{
+    background-color: rgb(193, 242, 145);
+    padding: 10px;
+}
+.row-hidden{
+    display: none!important;
+}
